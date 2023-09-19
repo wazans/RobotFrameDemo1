@@ -7,6 +7,10 @@ Verify Text in JS Alert dismiss button
     Open Browser    http://the-internet.herokuapp.com/javascript_alerts    Firefox
     Maximize Browser Window
 
+    Log    Opening the browser...
+
+
+
     # Click on the "Click for JS Alert" button
     Click Button    xpath=//button[text()='Click for JS Confirm']
 
@@ -17,6 +21,10 @@ Verify Text in JS Alert dismiss button
     Handle Alert    dismiss
 
     Sleep    5
+
+    Capture Page Screenshot
+
+    Capture Page Screenshot     filename=C:\\Users\\Wasim Ansari\\IdeaProjects\\RobotFW_DEmo\\TestSuites\\MyScreenshots\\new432.png
 
 
 
