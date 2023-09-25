@@ -1,0 +1,23 @@
+1695652338230	geckodriver	INFO	Listening on 127.0.0.1:64414
+1695652341330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\SystemTemp\\rust_mozprofilevWp4vK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695652341688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1695652341817	Marionette	INFO	Listening on port 64423
+WebDriver BiDi listening on ws://127.0.0.1:64415
+Read port: 64423
+1695652342106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64415/devtools/browser/dbbedbf4-e63c-41b0-9893-57a95fa856cf
+1695652357968	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+1695652367729	Marionette	INFO	Stopped listening on port 64423
+Dynamically enable window occlusion 1

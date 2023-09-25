@@ -24,7 +24,7 @@ Verify Text in JS Alert dismiss button
 
     Capture Page Screenshot
 
-    Capture Page Screenshot     filename=C:\\Users\\Wasim Ansari\\IdeaProjects\\RobotFW_DEmo\\TestSuites\\MyScreenshots\\new432.png
+    Capture Page Screenshot     filename=C:\\Users\\Wasim Ansari\\IdeaProjects\\RobotFW_DEmo\\TestSuites\\MyScreenshots\\nwqwqw.png
 
 
 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.10.10 on win32)" generated="20230925 20:04:57.720" rpa="false" schemaversion="4">
+<suite id="s1" name="2.DismissAlert" source="C:\ProgramData\Jenkins\.jenkins\workspace\Robot Framework Tests\2.DismissAlert.robot">
+<test id="s1-t1" name="Verify Text in JS Alert dismiss button" line="6">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>http://the-internet.herokuapp.com/javascript_alerts</arg>
+<arg>Firefox</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230925 20:04:57.935" level="INFO">Opening browser 'Firefox' to base url 'http://the-internet.herokuapp.com/javascript_alerts'.</msg>
+<msg timestamp="20230925 20:04:57.941" level="INFO">Applicable driver not found; attempting to install with Selenium Manager (Beta)</msg>
+<status status="PASS" starttime="20230925 20:04:57.935" endtime="20230925 20:05:16.698"/>
+</kw>
+<kw name="Maximize Browser Window" library="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" starttime="20230925 20:05:16.698" endtime="20230925 20:05:16.701"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>Opening the browser...</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230925 20:05:16.701" level="INFO">Opening the browser...</msg>
+<status status="PASS" starttime="20230925 20:05:16.701" endtime="20230925 20:05:16.701"/>
+</kw>
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>xpath=//button[text()='Click for JS Confirm']</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20230925 20:05:16.702" level="INFO">Clicking button 'xpath=//button[text()='Click for JS Confirm']'.</msg>
+<status status="PASS" starttime="20230925 20:05:16.701" endtime="20230925 20:05:16.808"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>5</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20230925 20:05:21.821" level="INFO">Slept 5 seconds</msg>
+<status status="PASS" starttime="20230925 20:05:16.808" endtime="20230925 20:05:21.821"/>
+</kw>
+<kw name="Handle Alert" library="SeleniumLibrary">
+<arg>dismiss</arg>
+<doc>Handles the current alert and returns its message.</doc>
+<msg timestamp="20230925 20:05:21.821" level="INFO">HANDLE::&lt;class 'NoneType'&gt;::None</msg>
+<status status="PASS" starttime="20230925 20:05:21.821" endtime="20230925 20:05:21.854"/>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<arg>5</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20230925 20:05:26.860" level="INFO">Slept 5 seconds</msg>
+<status status="PASS" starttime="20230925 20:05:21.854" endtime="20230925 20:05:26.861"/>
+</kw>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20230925 20:05:26.973" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-3.png"&gt;&lt;img src="selenium-screenshot-3.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20230925 20:05:26.862" endtime="20230925 20:05:26.973"/>
+</kw>
+<kw name="Capture Page Screenshot" library="SeleniumLibrary">
+<arg>filename=C:\\Users\\Wasim Ansari\\IdeaProjects\\RobotFW_DEmo\\TestSuites\\MyScreenshots\\new432.png</arg>
+<doc>Takes a screenshot of the current page and embeds it into a log file.</doc>
+<msg timestamp="20230925 20:05:26.997" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="../TestSuites/MyScreenshots/new432.png"&gt;&lt;img src="../TestSuites/MyScreenshots/new432.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20230925 20:05:26.973" endtime="20230925 20:05:26.997"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20230925 20:05:26.997" endtime="20230925 20:05:32.320"/>
+</kw>
+<status status="PASS" starttime="20230925 20:04:57.934" endtime="20230925 20:05:32.320"/>
+</test>
+<doc>Navigate to the JavaScript Alerts page and click on the JS Alert button dismiss</doc>
+<status status="PASS" starttime="20230925 20:04:57.722" endtime="20230925 20:05:32.321"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="2.DismissAlert">2.DismissAlert</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
