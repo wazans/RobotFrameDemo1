@@ -11,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="18d94cc7a9c71dd73c762180dadcf5e89ce447ae" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -116,6 +121,7 @@
       <workItem from="1695298030207" duration="611000" />
       <workItem from="1695298666421" duration="37000" />
       <workItem from="1695301574425" duration="338000" />
+      <workItem from="1695400929996" duration="824000" />
     </task>
     <task id="LOCAL-00001" summary="sds">
       <created>1695128066126</created>
