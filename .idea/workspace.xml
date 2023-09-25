@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3971399-2284-4d1f-92dd-744a6c55a92b" name="Changes" comment="commit two" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cc0e7c2c-d258-497d-ab38-e37ae7c7994a" />
+        <option name="url" value="https://github.com/wazans/RobotFrameDemo1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QYvFDZqrkcclrGiOvDnp4qUAJj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Wasim Ansari/IdeaProjects/RobotFW_DEmo/TestSuites/Module 5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Wasim Ansari\IdeaProjects\RobotFW_DEmo\TestSuites\Module 5" />
+      <recent name="C:\Users\Wasim Ansari\IdeaProjects\RobotFW_DEmo\TestSuites\Module 6" />
+      <recent name="C:\Users\Wasim Ansari\IdeaProjects\RobotFW_DEmo\TestSuites\Module 7" />
+      <recent name="C:\Users\Wasim Ansari\IdeaProjects\RobotFW_DEmo\TestSuites" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Wasim Ansari\IdeaProjects\RobotFW_DEmo\TestSuites\Module 7" />
+      <recent name="C:\Users\Wasim Ansari\IdeaProjects\RobotFW_DEmo\TestSuites\Module 8" />
+      <recent name="C:\Users\Wasim Ansari\IdeaProjects\RobotFW_DEmo\TestSuites" />
+      <recent name="C:\Users\Wasim Ansari\IdeaProjects\RobotFW_DEmo" />
+      <recent name="C:\Users\Wasim Ansari\IdeaProjects\RobotFW_DEmo\TestSuites\Resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="RobotFW_DEmo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="run.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Batch.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3971399-2284-4d1f-92dd-744a6c55a92b" name="Changes" comment="" />
+      <created>1685543230778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685543230778</updated>
+      <workItem from="1685543231924" duration="10786000" />
+      <workItem from="1685868648796" duration="15000" />
+      <workItem from="1685869848859" duration="1186000" />
+      <workItem from="1686150072904" duration="1753000" />
+      <workItem from="1686311440638" duration="17934000" />
+      <workItem from="1686984380934" duration="24203000" />
+      <workItem from="1687182390795" duration="1641000" />
+      <workItem from="1687184185898" duration="18824000" />
+      <workItem from="1687428817594" duration="965000" />
+      <workItem from="1687432292671" duration="31000" />
+      <workItem from="1687528051578" duration="30784000" />
+      <workItem from="1688469547745" duration="394000" />
+      <workItem from="1693903808423" duration="5239000" />
+      <workItem from="1695029154058" duration="7260000" />
+      <workItem from="1695225957034" duration="918000" />
+      <workItem from="1695282899342" duration="1665000" />
+      <workItem from="1695287963295" duration="2733000" />
+      <workItem from="1695291848014" duration="35000" />
+      <workItem from="1695291903251" duration="61000" />
+      <workItem from="1695298030207" duration="611000" />
+      <workItem from="1695298666421" duration="37000" />
+      <workItem from="1695301574425" duration="338000" />
+    </task>
+    <task id="LOCAL-00001" summary="sds">
+      <created>1695128066126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695128066126</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit two">
+      <created>1695289839649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695289839649</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="sds" />
+    <MESSAGE value="commit two" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit two" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="robot-line">
+          <url>file://$PROJECT_DIR$/TestSuites/Module 5/3.AlertPrompt.robot</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
