@@ -14,7 +14,7 @@ Send POST Request to Create User
     Create Session    Reqres    ${Base URL}
 
     # Create a dictionary to represent the request body
-    ${request_body}    Create Dictionary    firstname=gautam    lastname=gambhir    id=97   age=40
+    ${request_body}    Create Dictionary    firstname=iam    lastname=github    id=30   age=44
 
 
     # Log the request body for debugging purposes
